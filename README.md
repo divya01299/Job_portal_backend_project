@@ -47,7 +47,6 @@ A RESTful backend for a job portal that connects job seekers with employers. The
 * **ODM:** Mongoose
 * **Authentication:** JWT
 * **Password Hashing:** bcrypt
-* **API Documentation:** Swagger / OpenAPI
 * **Security:** Helmet, Rate Limiting, Input Sanitization
 
 ## Project Structure
