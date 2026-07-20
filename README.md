@@ -204,18 +204,5 @@ Common HTTP status codes include:
 * `404` - Not Found
 * `500` - Internal Server Error
 
-## Deployment
 
-The project includes Vercel deployment configuration.
-
-```bash
-npm install -g vercel
-vercel
-```
-
-Configure the required environment variables in the deployment platform before starting the application.
-
-## License
-
-This project is licensed under the ISC License.
 
