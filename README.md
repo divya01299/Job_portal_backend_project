@@ -35,10 +35,6 @@ A RESTful backend for a job portal that connects job seekers with employers. The
   * Request validation
   * Centralized error handling
 
-* **API Documentation**
-
-  * Interactive API documentation using Swagger UI
-
 ## Tech Stack
 
 * **Runtime:** Node.js
@@ -93,7 +89,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/pranavst30/Backend-Job-Portal.git
+git clone https://github.com/divya01299/Job_portal_backend_project.git
 ```
 
 2. Navigate to the project directory:
